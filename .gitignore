@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+
+# environment
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+
+# testing
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NestJS observe / misc
+*.tsbuildinfo
