@@ -1,8 +1,8 @@
 {
-  "name": "ASUS",
+  "name": "grc-auditor",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "A continuous compliance platform for SOC 2 and ISO 27001 — automated control evidence collection.",
+  "author": "Mehmet Emin Çevik",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -23,7 +23,6 @@
   "dependencies": {
     "@nestjs/common": "^12.0.1",
     "@nestjs/core": "^12.0.1",
-    "@nestjs/observe": "^0.3.0",
     "@nestjs/platform-express": "^12.0.1",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1"
